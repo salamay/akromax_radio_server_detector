@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">detector</string>
+    <string name="unable_to_connect">Unable to send request, check your internet connection</string>
+    <string name="server_issue">Something is wrong with the radio server, please check</string>
+    <string name="channel_name">Server sniff</string>
+    <string name="channel_description">Server indicator</string>
+    <string name="Radio_server_status">Radio server status</string>
+    <string name="Radio_server_ok">Radio server response time is OK</string>
+    <string name="Radio_server_problem">Server is taking long to respond</string>
+    <string name="Radio_server_down">Server is down</string>
+    <string name="service_status_running">Running</string>
+    <string name="service_status_stop">Stopped</string>
+</resources>
